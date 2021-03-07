@@ -56,3 +56,7 @@ check predicted pattern /
 
 refine page design /
 replace with a better model
+
+
+## What Rosaline DO
+
