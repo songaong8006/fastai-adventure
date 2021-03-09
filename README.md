@@ -58,5 +58,8 @@ refine page design /
 replace with a better model
 
 
-## What Rosaline DO
+## What Rosaline Do
 
+Machine Learning -> gathering data by using crawling image
+Front-end --> About us, stock detail, bookmark detail, whole design
+Commercial video
